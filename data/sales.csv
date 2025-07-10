@@ -1,0 +1,9 @@
+id,data,produto,categoria,valor,cliente_id,regiao
+1,2025-01-05,Notebook,Eletrônicos,3500.00,101,Sudeste
+2,2025-01-07,Smartphone,Eletrônicos,2200.00,102,Sul
+3,2025-01-10,Fone de Ouvido,Eletrônicos,250.00,103,Norte
+4,2025-01-11,Livro,Educacional,60.00,104,Sudeste
+5,2025-01-15,Monitor,Eletrônicos,800.00,105,Centro-Oeste
+6,2025-01-20,Cadeira Gamer,Móveis,1200.00,106,Sul
+7,2025-01-25,Mesa de Escritório,Móveis,900.00,107,Nordeste
+8,2025-01-30,Tablet,Eletrônicos,1500.00,108,Sudeste
